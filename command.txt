@@ -10,6 +10,7 @@ git branch (name for branch) - создать ветку
 git branch -m (new name for branch) - переименовать текущую ветку
 git branch -d (name branch) - удалить ветку
 git cat-file -t (or -p) (несколько первых знаков хеша коммита) - прочитать файл коммита
+git merge (имя ветки с которой хотим обьеденится)
 
 echo "inside file" > (name-file) - создать файл + его содержимое
 cat (name-file) - прочитать содержимое файла
