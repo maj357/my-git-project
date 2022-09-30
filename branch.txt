@@ -1,0 +1,7 @@
+Branch - this is the link to the commit
+
+git branch - посмотреть имя ветки
+git branch (name for branch) - создать ветку
+git checkout -b (name for branch) - создать ветку и перейти в нее
+git branch -m (new name for branch) - переименовать текущую ветку
+git branch -d (name branch) - удалить ветку
