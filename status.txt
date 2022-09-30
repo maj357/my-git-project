@@ -1,0 +1,6 @@
+Traking status of the files
+
+Untracked (не отслеживаемый)
+Staged (подготовленный)
+Modified (модифицированный)
+Unmodified (не модифицированный)

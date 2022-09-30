@@ -1,0 +1,10 @@
+Object type of the git
+
+- Blob (file)
+- Tree (folder)
+- Commit (commit)
+- Annotated Teg (annotated tag)
+
+
+Каждый обьект в Git имеет уникальный ID (SHA1 hash - хеш функция, c фиксированной длиной 160бит - 40 шестнадцатиричных символов)
+

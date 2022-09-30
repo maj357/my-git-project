@@ -1,0 +1,9 @@
+Structure of the commite
+
+sha1 hash - "83a321"
+name and email of the autor
+description of the commite
+link to the parent(s) commit(s)
+link to the tree
+
+HEAD - указатель на текущую версию проекта которая находится в рабочей директории 
